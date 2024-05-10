@@ -1,10 +1,10 @@
 # Unity_2d_UI_2PT1
 Unity 2D projekts, kas demonstrē UI elementu lietojumu
 ### Veicamo darbu saraksts
-- [ ] Projekta uzsākšana un izvietošana GitHub
-- [ ] Projekta failu un mapju ieviešana
-- [ ] InputField un Text, Button elementu lietojums
-- [ ] Pirā C# skripta izveide un piesaiste ainai
+- [x] Projekta uzsākšana un izvietošana GitHub
+- [x] Projekta failu un mapju ieviešana
+- [x] InputField un Text, Button elementu lietojums
+- [x] Pirā C# skripta izveide un piesaiste ainai
 - [ ] Image un Toggle elementu lietojums
 - [ ] Panel un Toggle Group elementu lietojums
 - [ ] DropDown un Slider elementu lietojums
